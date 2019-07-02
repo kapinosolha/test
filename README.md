@@ -1,11 +1,7 @@
 Table of contents
 =================
-   * [Job Matching Platforms]
-   * [Table of contents](#table-of-contents)
-   * [Installation](#installation)
-
-Job Matching Platforms
-Career Acceleration Platforms
+   * [Job Matching Platforms](#job-matching-platforms)
+   * [Career Acceleration Platforms](#career-cceleration-latforms)
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
