@@ -1,6 +1,6 @@
 Table of contents
 =================
-   * [Job Matching Platforms](#job-matching-platforms)
+   * [Job Matching Platforms]
    * [Table of contents](#table-of-contents)
    * [Installation](#installation)
 
